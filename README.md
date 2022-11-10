@@ -17,3 +17,12 @@ How to create IdAttribute and ClassAttribute
 Pseudo classes
 Typography
 Box modelling(padding, margin)
+
+Week 3 
+Types of input field 
+Use of !Important
+Box model
+Media queries
+Elment positioning 
+Flexbox
+How to wireframe(static wireframe)
