@@ -26,3 +26,20 @@ Media queries
 Elment positioning 
 Flexbox
 How to wireframe(static wireframe)
+
+Week 4
+How to make responsive images
+How to use github commit in VSC
+
+Week 5
+Introduced to JS
+How to use the console controls for JS
+Writing classes in JS
+Wrtie objects
+How a object constructor works
+Access objects through console
+Global objects like ToDate 
+Inject HTML element into JS
+What is DOM
+Usage of querySelector and querySelectorAll
+Modfiy CSS files with JS
