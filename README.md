@@ -43,3 +43,25 @@ Inject HTML element into JS
 What is DOM
 Usage of querySelector and querySelectorAll
 Modfiy CSS files with JS
+
+Week 6
+Create literal objects and function based objects
+Utilise such objets 
+Variables creation
+DOM
+How to target specific or group of elements in a DOM tree
+
+Week 7 
+The types of mouse event 
+Event listeners 
+Forms
+Server validation 
+JSON
+Web and local storage 
+Conert JS object to string vice versa 
+
+Week 8 
+Update/Insert/Get/Set elements 
+Element transition effects 
+Ajax
+The functionality of AJAX
