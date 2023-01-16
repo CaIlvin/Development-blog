@@ -65,3 +65,19 @@ Update/Insert/Get/Set elements
 Element transition effects 
 Ajax
 The functionality of AJAX
+What API is
+How to do an API request
+
+Week 9
+What BootStrap is
+How to use BootStrap for web development 
+
+Week 12
+Further understanding of AJAX and API
+SQL and NoSQL databse difference
+Usage of RestDB
+Application and testing of RestDB
+
+Week 14
+What Lottie is 
+How to implement Lottie in web development 
